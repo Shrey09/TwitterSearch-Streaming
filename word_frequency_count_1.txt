@@ -1,0 +1,6 @@
+('accident', 2)
+('snow storm', 3)
+('bus', 20)
+('safe', 7)
+('park', 5)
+('parks', 4)
